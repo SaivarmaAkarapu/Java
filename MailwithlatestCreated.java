@@ -19,8 +19,8 @@ public class MailwithlatestCreated {
 	public static void main(String[] args) {
 		 String to = "saivarma.akarapu@dhanushinfotech.net";
 
-	      final String username = "saivarma.tv@gmail.com";//change accordingly
-	      final String password = "Anusha123$";//change accordingly
+	      final String username = "";//change accordingly
+	      final String password = "";//change accordingly
 	      sendEmail(to,username,password);
 	}
 	public static void sendEmail(String to,String username,String password)
