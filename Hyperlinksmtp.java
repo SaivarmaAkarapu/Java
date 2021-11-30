@@ -16,8 +16,8 @@ public class Hyperlinksmtp
       // Recipient's email ID needs to be mentioned.
       String to = "saivarma.akarapu@dhanushinfotech.net";
 
-      final String username = "saivarma.tv@gmail.com";//change accordingly
-      final String password = "Anusha123$";//change accordingly
+      final String username = "";//change accordingly
+      final String password = "";//change accordingly
       SendingEmail(to,username,password);
    }
 
