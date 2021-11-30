@@ -36,7 +36,7 @@ class Mailer{
 public class JavaMail{    
  public static void main(String[] args) {    
      //from,password,to,subject,message  
-     Mailer.send("saivarma.tv@gmail.com","Anusha123$","anumallakranthi24k@gmail.com","JavaMail","Mail from java application");  
+     Mailer.send("","","anumallakranthi24k@gmail.com","JavaMail","Mail from java application");  
      //change from, password and to  
  }    
 }    
